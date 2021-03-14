@@ -37,4 +37,5 @@ This repository contains the following plugins:
 [🏠](https://github.com/CalebJohn/joplin-rich-markdown#readme) | Rich Markdown | 0.2.0 | Add inline and other images to the markdown editor. | Caleb John
 [🏠](https://github.com/JackGruber/joplin-plugin-backup/blob/master/README.md) | Simple Backup | 0.5.2 | Plugin to create manual and automatic backups. | JackGruber
 [🏠](https://github.com/forcewake/joplin-tags-generator) | Tags Generator | 1.0.0 | Plugin for Joplin which can be used to extract keywords from note and assign them as a note's tags | forcewake
+[🏠](https://github.com/marc0l92/joplin-plugin-jira-issue) | JiraIssue | 1.5.0 | This plugin allows you to track the progress of Atlassian Jira Issues from your Joplin notes. | marc0l92
 <!-- PLUGIN_LIST -->
